@@ -28,7 +28,7 @@
 
 <p>
   <a href="https://github.com/Kaushik-verse/opspilot"><img src="assets/card-opspilot.svg" width="49%" alt="OpsPilot — LLM on-call engineer for Kubernetes. 94% incidents solved, 69% fewer large-model tokens, 0 unsafe commands run."></a>
-  <a href="https://github.com/Kaushik-verse/-hr-assistant"><img src="assets/card-hr.svg" width="49%" alt="HR Assist — agentic HR automation with MCP-powered tools for onboarding, leave, scheduling and tickets."></a>
+  <a href="https://github.com/Kaushik-verse/vidura-agentic-hr-assistant"><img src="assets/card-hr.svg" width="49%" alt="Vidura — agentic HR assistant for leave, tickets, onboarding and hiring, with a LangChain agent and an MCP server."></a>
 </p>
 <p>
   <a href="https://github.com/Kaushik-verse/hybrid-rag-assistant"><img src="assets/card-rag.svg" width="49%" alt="Hybrid RAG Assistant — +35% top-5 precision, 90% correct answers, under 2s median latency."></a>
