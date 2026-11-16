@@ -1,7 +1,7 @@
 <!-- Designed and hand-built by Chunduri Sai Kaushik. Assets in /assets are generated SVGs. -->
 
 <a href="https://kaushik-portfolio-zeta.vercel.app">
-  <img src="assets/header.svg" width="100%" alt="Chunduri Kaushik — Data Scientist, AI Engineer, Agentic Systems, Retrieval and RAG, B.Tech at VIT">
+  <img src="assets/header.svg" width="100%" alt="Chunduri Kaushik — Data Scientist, AI Engineer, Agentic Systems, Retrieval and RAG. VIT Vellore. Always building something new; open to messy, real-world problems.">
 </a>
 
 <p align="left">
@@ -14,8 +14,8 @@
 
 <br>
 
-<img src="assets/sec-about.svg" width="100%" alt="02 / about — Right now">
-<img src="assets/about.svg" width="100%" alt="Hi, I'm Kaushik. I like taking messy, real-world data and turning it into systems people can actually trust: an on-call agent that refuses to run a dangerous command, a search tool that shows where every answer came from, a forecast a team can act on. Finishing my B.Tech in Data Science at VIT. Now building OpsPilot. Learning multi-agent evaluation, LLM safety and geospatial ML. Looking for SDE, AI and data science roles.">
+<img src="assets/sec-about.svg" width="100%" alt="02 / about — Messy problems welcome">
+<img src="assets/about.svg" width="100%" alt="Hi, I'm Kaushik. I like taking messy, real-world data and turning it into systems people can actually trust: an on-call agent that refuses to run a dangerous command, a search tool that shows where every answer came from, a forecast a team can act on. Data Science at VIT Vellore, India. I build agents, retrieval systems and models that hold up outside the notebook, and I am open to messy, ambitious problems that don&apos;t come with a clean dataset.">
 
 <br><br>
 
@@ -31,7 +31,7 @@
   <a href="https://github.com/Kaushik-verse/vidura-agentic-hr-assistant"><img src="assets/card-hr.svg" width="49%" alt="Vidura — agentic HR assistant for leave, tickets, onboarding and hiring, with a LangChain agent and an MCP server."></a>
 </p>
 <p>
-  <a href="https://github.com/Kaushik-verse/hybrid-rag-assistant"><img src="assets/card-rag.svg" width="49%" alt="Hybrid RAG Assistant — +35% top-5 precision, 90% correct answers, under 2s median latency."></a>
+  <a href="https://github.com/Kaushik-verse/satyori-hybrid-rag"><img src="assets/card-rag.svg" width="49%" alt="Satyori — hybrid RAG for property due diligence. 0.744 nDCG@10 on BEIR SciFact, +11% over BM25, 1.00 held-out MRR."></a>
   <a href="https://github.com/Kaushik-verse/Airspace-Contrail-Climate-Impact-System"><img src="assets/card-contrail.svg" width="49%" alt="Airspace Contrail Impact — per-flight contrail and CO2 scoring for Indian airspace."></a>
 </p>
 
@@ -51,7 +51,7 @@
 <br>
 
 <img src="assets/sec-certs.svg" width="100%" alt="05 / credentials — Certifications">
-<img src="assets/certs.svg" width="100%" alt="AWS Certified Cloud Practitioner; OCI 2025 Generative AI Professional; OCI 2025 Data Science Professional. B.Tech CSE (Data Science), VIT.">
+<img src="assets/certs.svg" width="100%" alt="AWS Certified Cloud Practitioner; OCI 2025 Generative AI Professional; OCI 2025 Data Science Professional. Data Science, VIT Vellore.">
 
 <br><br>
 
